@@ -1,2 +1,2 @@
 # Array2DLinqExtensions
-2d array extentions
+2d array extensions
